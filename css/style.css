@@ -95,8 +95,7 @@ p {
   z-index:9999;
   display: none;
   position: relative;
-  left:27.5%;
-  top:17.5%;
+  margin-top:80px;
 }
 
 #main-gallery {

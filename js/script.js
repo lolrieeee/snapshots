@@ -44,7 +44,7 @@
       var overlayPic = document.getElementById('overlay-pic');
       overlay.style.display="block";
       overlayPic.style.display="block";
-      overlayPic.innerHTML = '<img src="' + this.getAttribute('href') + '">';
+      overlayPic.innerHTML = '<img src="' + this.getAttribute('href') + '" class="img-responsive">';
     });
   }
 
